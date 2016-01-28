@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/zoom" android:title="Zoom"></item>
+    <item android:id="@+id/reset" android:title="Reset"></item>
+     <item android:id="@+id/pause" android:title="Pause"></item>
+     <item android:id="@+id/mode" android:title="Switch mode"></item>
+    
+
+</menu>
